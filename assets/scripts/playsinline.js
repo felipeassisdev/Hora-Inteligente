@@ -29,8 +29,10 @@ function updateTime() {
         mensagem.textContent = 'É melhor ir dormir, está ficando tarde em! Boa noite! 🌙';
     } else if (hours >= 0 && hours < 1) {
         mensagem.textContent = 'Você ainda está acordado? Vai dormir por favor! 🌜';
-    } else if (hours >= 1 && hours < 6) {
+    } else if (hours >= 1 && hours < 5) {
         mensagem.textContent = 'Está na hora de dormir, não acha? 🌛';
+    } else if (hours >= 5 && hours < 6) {
+        mensagem.textContent = 'Espero que tenha dormindo bem em 👀';
     }
 }
 
