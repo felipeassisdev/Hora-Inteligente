@@ -11,4 +11,4 @@ Também aparece algumas frases em baixo em determinada hora do dia!
 - 🧷 Em determinada hora, muda a frase
 - 💻 Tem um fundo animado
 
-  A unica função dele é apenas mudar a hora e as frases, nada além disso. feito por **JS**.
+A unica função dele é apenas mudar a hora e as frases, nada além disso. feito por **JS**.
